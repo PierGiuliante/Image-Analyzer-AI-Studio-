@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Analyzer",
+  "description": "Upload a photo to get a detailed analysis from the Gemini AI model and discover links to similar images on the web.",
+  "requestFramePermissions": []
+}
